@@ -17,7 +17,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="-572">
               <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
               <folding>
                 <element signature="e#2369#2376#0" expanded="true" />
@@ -30,11 +30,24 @@
       <file leaf-file-name="indexlogged.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/indexlogged.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
-              <caret line="63" column="81" lean-forward="false" selection-start-line="63" selection-start-column="81" selection-end-line="63" selection-end-column="81" />
+            <state relative-caret-position="57">
+              <caret line="53" column="77" lean-forward="true" selection-start-line="53" selection-start-column="77" selection-end-line="53" selection-end-column="77" />
               <folding>
-                <element signature="e#2262#2269#0" expanded="true" />
-                <element signature="e#2477#2483#0" expanded="true" />
+                <element signature="e#2268#2275#0" expanded="true" />
+                <element signature="e#2483#2489#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="viewpostlogged.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/viewpostlogged.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="63" column="84" lean-forward="false" selection-start-line="63" selection-start-column="84" selection-end-line="63" selection-end-column="84" />
+              <folding>
+                <element signature="e#2261#2268#0" expanded="true" />
+                <element signature="e#2476#2482#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -43,7 +56,7 @@
       <file leaf-file-name="viewpost.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/viewpost.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
+            <state relative-caret-position="442">
               <caret line="62" column="78" lean-forward="false" selection-start-line="62" selection-start-column="78" selection-end-line="62" selection-end-column="78" />
               <folding>
                 <element signature="e#2169#2176#0" expanded="true" />
@@ -77,7 +90,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="createnewpost.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="createnewpost.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/createnewpost.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="397">
@@ -106,10 +119,11 @@
         <option value="$PROJECT_DIR$/viewpostloget.html" />
         <option value="$PROJECT_DIR$/viewpost.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/indexlogged.html" />
         <option value="$PROJECT_DIR$/register.html" />
         <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/createnewpost.html" />
+        <option value="$PROJECT_DIR$/indexlogged.html" />
+        <option value="$PROJECT_DIR$/viewpostlogged.html" />
       </list>
     </option>
   </component>
@@ -119,7 +133,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-12" />
     <option name="y" value="26" />
     <option name="width" value="1346" />
@@ -184,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.createnewpost.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="createnewpost.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SoftUniBlog/createnewpost.html" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SoftUniBlog/index.html" />
     <configuration name="login.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SoftUniBlog/login.html" />
@@ -199,9 +213,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.createnewpost.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.login.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.createnewpost.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.login.html" />
         <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.register.html" />
         <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.viewpost.html" />
       </list>
@@ -221,15 +235,15 @@
       <option name="presentableId" value="Default" />
       <updated>1521119981237</updated>
       <workItem from="1521119982773" duration="13850000" />
-      <workItem from="1521225036516" duration="989000" />
+      <workItem from="1521225036516" duration="1785000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14839000" />
+    <option name="totallyTimeSpent" value="15635000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -278,8 +292,8 @@
         <state relative-caret-position="1071">
           <caret line="63" column="81" lean-forward="false" selection-start-line="63" selection-start-column="81" selection-end-line="63" selection-end-column="81" />
           <folding>
-            <element signature="e#2262#2269#0" expanded="true" />
-            <element signature="e#2477#2483#0" expanded="true" />
+            <element signature="e#2268#2275#0" expanded="true" />
+            <element signature="e#2483#2489#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -319,43 +333,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/viewpostloget.html" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-          <folding>
-            <element signature="e#2369#2376#0" expanded="true" />
-            <element signature="e#2624#2630#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/indexlogged.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="63" column="81" lean-forward="false" selection-start-line="63" selection-start-column="81" selection-end-line="63" selection-end-column="81" />
-          <folding>
-            <element signature="e#2262#2269#0" expanded="true" />
-            <element signature="e#2477#2483#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/viewpost.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="62" column="78" lean-forward="false" selection-start-line="62" selection-start-column="78" selection-end-line="62" selection-end-column="78" />
-          <folding>
-            <element signature="e#2169#2176#0" expanded="true" />
-            <element signature="e#2384#2390#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/register.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -382,6 +364,50 @@
           <caret line="68" column="115" lean-forward="true" selection-start-line="68" selection-start-column="115" selection-end-line="68" selection-end-column="115" />
           <folding>
             <element signature="e#2743#2749#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-572">
+          <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="e#2369#2376#0" expanded="true" />
+            <element signature="e#2624#2630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewpost.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="62" column="78" lean-forward="false" selection-start-line="62" selection-start-column="78" selection-end-line="62" selection-end-column="78" />
+          <folding>
+            <element signature="e#2169#2176#0" expanded="true" />
+            <element signature="e#2384#2390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indexlogged.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="53" column="77" lean-forward="true" selection-start-line="53" selection-start-column="77" selection-end-line="53" selection-end-column="77" />
+          <folding>
+            <element signature="e#2268#2275#0" expanded="true" />
+            <element signature="e#2483#2489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/viewpostlogged.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="63" column="84" lean-forward="false" selection-start-line="63" selection-start-column="84" selection-end-line="63" selection-end-column="84" />
+          <folding>
+            <element signature="e#2261#2268#0" expanded="true" />
+            <element signature="e#2476#2482#0" expanded="true" />
           </folding>
         </state>
       </provider>
