@@ -40,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="viewpostlogged.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="viewpostlogged.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/viewpostlogged.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="295">
@@ -66,13 +66,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="43" lean-forward="false" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+            <state relative-caret-position="391">
+              <caret line="74" column="88" lean-forward="false" selection-start-line="74" selection-start-column="88" selection-end-line="74" selection-end-column="88" />
               <folding>
-                <element signature="e#3032#3038#0" expanded="true" />
+                <element signature="e#3053#3059#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,11 +119,11 @@
         <option value="$PROJECT_DIR$/viewpostloget.html" />
         <option value="$PROJECT_DIR$/viewpost.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/register.html" />
         <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/createnewpost.html" />
         <option value="$PROJECT_DIR$/indexlogged.html" />
         <option value="$PROJECT_DIR$/viewpostlogged.html" />
+        <option value="$PROJECT_DIR$/register.html" />
       </list>
     </option>
   </component>
@@ -235,12 +235,12 @@
       <option name="presentableId" value="Default" />
       <updated>1521119981237</updated>
       <workItem from="1521119982773" duration="13850000" />
-      <workItem from="1521225036516" duration="1785000" />
+      <workItem from="1521225036516" duration="2095000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15635000" />
+    <option name="totallyTimeSpent" value="15945000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -314,7 +314,7 @@
         <state relative-caret-position="459">
           <caret line="27" column="43" lean-forward="false" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
           <folding>
-            <element signature="e#3032#3038#0" expanded="true" />
+            <element signature="e#3053#3059#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -338,16 +338,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/viewpostloget.html" />
-    <entry file="file://$PROJECT_DIR$/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="43" lean-forward="false" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
-          <folding>
-            <element signature="e#3032#3038#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -408,6 +398,16 @@
           <folding>
             <element signature="e#2261#2268#0" expanded="true" />
             <element signature="e#2476#2482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="74" column="88" lean-forward="false" selection-start-line="74" selection-start-column="88" selection-end-line="74" selection-end-column="88" />
+          <folding>
+            <element signature="e#3053#3059#0" expanded="true" />
           </folding>
         </state>
       </provider>
